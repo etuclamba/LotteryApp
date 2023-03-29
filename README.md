@@ -1,1 +1,1 @@
-# this is my pthon lottery assignment
+# this is my python lottery assignment
